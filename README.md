@@ -1,2 +1,2 @@
 # something_fun
-learning about git and github
+this is a little experiement with learning about git and github
